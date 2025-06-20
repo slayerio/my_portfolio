@@ -20,3 +20,14 @@ an organised place for all the projects
            https://github.com/slayerio/AI4.git
            https://github.com/slayerio/PESAH.git
            https://github.com/slayerio/LIN1.git
+
+## Memory Managment:
+--THREADvsMULTYPROCESS(SQLALCHEMY): https://github.com/slayerio/OOP16.git
+--MEMORY_PROFILING: https://github.com/slayerio/OOP15.git
+
+## OOP:
+--OOP_EXAM: https://github.com/slayerio/OOP-_EXAM.git
+--PROTOTYPE_PATTERN: https://github.com/slayerio/OOP17.git
+--DECORATOR: https://github.com/slayerio/OOP14.git
+--FACADE: https://github.com/slayerio/OOP13.git
+--
