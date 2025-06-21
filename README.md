@@ -3,38 +3,38 @@ An organized place for all the projects
 
 ---
 
-## 🚀 Simple FastAPI Servers
+## Simple FastAPI Servers
 
 - [Add Price](https://github.com/slayerio/fast_api.git)  
 - [Add Grade](https://github.com/slayerio/server_students.git)
 
 ---
 
-## 🤖 ML Assignments
+## ML Assignments
 
-### 📚 NLP
+### NLP
 - [NLP](https://github.com/slayerio/NLP.git)  
 - [SERVER_NLP](https://github.com/slayerio/SERVER_NLP.git)
 
-### 🧠 ANN
+### ANN
 - [ANN](https://github.com/slayerio/ANN.git)
 
-### 📊 Clustering
+### Clustering
 - [KMEANS vs DBSCAN](https://github.com/slayerio/KMEANSvsDBSCAN.git)
 
-### 🌳 Trees
+### Trees
 - [AITREE](https://github.com/slayerio/CART.git)
 
-### ⚙️ SVM
+###  SVM
 - [SVM](https://github.com/slayerio/SVM.git)
 
-### 🔍 KNN
+### KNN
 - [KNN](https://github.com/slayerio/KNN.git)
 
-### 📈 Logistic Regression
+### Logistic Regression
 - [LOG_REG](https://github.com/slayerio/ALLOG.git)
 
-### 📉 Linear Regression
+### Linear Regression
 - [LIN2](https://github.com/slayerio/LIN2.git)  
 - [AI4](https://github.com/slayerio/AI4.git)  
 - [PESAH](https://github.com/slayerio/PESAH.git)  
@@ -42,14 +42,14 @@ An organized place for all the projects
 
 ---
 
-## 🧠 Memory Management
+## Memory Management
 
 - [THREAD vs MULTIPROCESS (SQLAlchemy)](https://github.com/slayerio/OOP16.git)  
 - [MEMORY PROFILING](https://github.com/slayerio/OOP15.git)
 
 ---
 
-## 🧱 OOP Design Patterns
+## OOP Design Patterns
 
 - [PROTOTYPE PATTERN](https://github.com/slayerio/OOP17.git)  
 - [DECORATOR](https://github.com/slayerio/OOP14.git)  
@@ -63,7 +63,7 @@ An organized place for all the projects
 
 ---
 
-## 🧪 Projects & Exams
+## Projects & Exams
 
 - [BANK ACCOUNT PROJECT](https://github.com/slayerio/OOP6.git)  
 - [OOP EXAM](https://github.com/slayerio/OOP-_EXAM.git)  
@@ -72,7 +72,7 @@ An organized place for all the projects
 
 ---
 
-## 🐼 Pandas & Data Handling
+## Pandas & Data Handling
 
 - [HMW28](https://github.com/slayerio/HMW28.git)  
 - [HMW29](https://github.com/slayerio/HMW29.git)  
