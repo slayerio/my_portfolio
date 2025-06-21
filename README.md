@@ -78,7 +78,9 @@ An organized place for all the projects
 - [HMW29](https://github.com/slayerio/HMW29.git)  
 - [HMW27](https://github.com/slayerio/hmw27.git)
 
+## SQL & MONGO'S
 
+- [PURE_SQL](https://github.com/slayerio/sql_project.git)
 
 
 
